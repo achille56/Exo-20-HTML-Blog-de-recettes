@@ -1,0 +1,71 @@
+h1{
+    background-color: blue;text-align: center;color: #75ff21; font-family: "Arial Black";
+}
+
+body{
+    background-color:royalblue;
+}
+
+h2, h3{
+    color: #75ff21; text-align: center; font-family: "Comic Sans MS";
+}
+
+table{
+    border-collapse: collapse; width: 100%;
+}
+
+td{
+    color: yellow;
+}
+
+caption{
+    color: yellow;
+}
+
+figure{
+    text-align: center;
+}
+
+.t1{
+    border: 2px solid black;
+}
+
+td, th{
+    border: 1px solid black;
+    padding: 15px;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+.menu{
+    display: flex;
+    padding: 0;
+    justify-content: center;
+}
+
+.menu a{
+    display: block;
+    min-width: 130px;
+    margin: 0.5rem;
+    padding: 0.6rem 0.4rem;
+    text-align: center;
+    background-color: #38ffd1;
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.menu li{
+    list-style-type: none;
+}
+
+.formulaire{
+    text-align: center;
+    background-color: #38ffd1;
+    border: 1px solid black;
+    border-radius: 4px;
+}
